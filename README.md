@@ -30,7 +30,20 @@ KELAS  :TI.23 A3
 ## Mengatur Footer
 ![Screenshot 2024-10-25 171617](https://github.com/user-attachments/assets/b9843cc5-60e0-44f3-8a0e-2c3e2f345e75)
 
-## Menambahkan Elemen lainnya pada Main Content
+## Menambahkan Element lainnya pada Main Content
+![Screenshot 2024-10-25 171906](https://github.com/user-attachments/assets/85ed9c37-b433-4a36-810a-c1364d50795b)
+
+## Menambahkan Content Artikel
+![Screenshot 2024-10-25 172230](https://github.com/user-attachments/assets/f719a22c-a28e-4904-9654-f1722b8f681e)
+
+## Tugas 1
+![Screenshot 2024-10-25 191319](https://github.com/user-attachments/assets/59e5da3f-11be-4e11-b5c7-4f637848819a)
+
+## Tugas 2
+![Screenshot 2024-10-25 191340](https://github.com/user-attachments/assets/cf65149e-c5d5-4e3a-89d0-af68ea1e3ae9)
+
+
+
 
 
 
